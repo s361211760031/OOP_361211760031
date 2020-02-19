@@ -1,6 +1,7 @@
 package Lab8;
 
-public class Person {
+public class   Person {
+    //คลาส Student สืบทอดจากคลาส Person
     private String id;
     private String name;
 
